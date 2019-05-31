@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "This is test file"
-echo "Created by Priyatosh"
+echo "This is test file" >>/tmp/test.txt
+echo "Created by Priyatosh" >>/tmp/test.txt
